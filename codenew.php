@@ -18,6 +18,8 @@
                   echo("<script>console.log('PHP: " . $image . "');</script>");
 
                   }
+                    } else {
+                    echo("<script>console.log('Kein Wert übergeben');</script>");
                 }
                       ?>
                       <ul>
